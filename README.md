@@ -1,4 +1,4 @@
-# Bar-Chart-UMBC
+# Bar-Chart-CMSC202
 ### Computer Science CMSC202 - Project 5
 ## Overview
 - Practice basic C++ syntax including branching structures
